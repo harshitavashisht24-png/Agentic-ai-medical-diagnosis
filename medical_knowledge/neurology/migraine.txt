@@ -1,0 +1,47 @@
+Disease: Migraine
+Medical Specialty: Neurology
+
+Source:
+World Health Organization (WHO)
+Migraine and Other Headache Disorders
+Updated: 24 October 2025
+
+Overview:
+Migraine is a primary neurological headache disorder characterized by recurring attacks. Attacks commonly last several hours and may continue for up to 72 hours.
+
+Common Symptoms:
+- Moderate or severe headache
+- Pulsating headache
+- Headache that may occur on one side or behind the eye
+- Nausea
+- Vomiting
+- Sensitivity to light
+- Sensitivity to sound
+
+Migraine attacks may be aggravated by routine physical activity.
+
+Aura:
+Some people experience an aura before or during a migraine attack. Aura can involve temporary visual, sensory or other neurological symptoms.
+
+Possible Triggers:
+Possible migraine triggers can include:
+- Alcohol
+- Sleep disruption
+- Certain foods
+- Other individual triggers
+
+Risk and Pattern:
+Migraine often begins around puberty and can occur throughout life. It is more common in women and can also affect children and adolescents.
+
+Diagnosis:
+Migraine is diagnosed through appropriate clinical assessment and recognition of the characteristics of the headache and associated symptoms.
+
+Management:
+Management can involve appropriate medical treatment, lifestyle measures and education about migraine triggers. Regular sleep, exercise, hydration and identifying personal triggers can be useful components of management.
+
+Important Note:
+This information is intended for educational and research purposes. It does not provide a confirmed diagnosis or individualized treatment recommendation.
+
+Reference:
+World Health Organization (WHO) - Migraine and Other Headache Disorders
+https://www.who.int/en/news-room/fact-sheets/detail/headache-disorders

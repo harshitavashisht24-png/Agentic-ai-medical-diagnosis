@@ -1,0 +1,60 @@
+Disease: Pneumonia
+Medical Specialty: Respiratory
+
+Source:
+World Health Organization (WHO)
+Pneumonia information
+
+Overview:
+Pneumonia is an acute respiratory infection affecting the lungs. During pneumonia, the air sacs in the lungs can fill with fluid or pus, making breathing difficult and limiting oxygen intake.
+
+Causes:
+Pneumonia can be caused by:
+- Viruses
+- Bacteria
+- Fungi
+
+Common Symptoms:
+- Cough
+- Shortness of breath
+- Fever
+- Sweating
+- Chills
+- Fatigue
+- Chest pain
+- Nausea
+- Vomiting
+- Diarrhoea
+- Confusion, especially in older adults
+
+Risk Factors:
+People at increased risk can include:
+- Young children
+- Older adults
+- People with weakened immune systems
+- People with certain pre-existing health conditions
+- People exposed to indoor air pollution
+- People living in crowded conditions
+
+Diagnosis:
+Diagnosis is based on clinical assessment and relevant medical evaluation. Symptoms can overlap with other respiratory conditions.
+
+Severe Disease:
+Severe pneumonia can cause significant breathing difficulty and may require hospital care.
+
+Prevention:
+- Vaccination can help prevent some causes of pneumonia.
+- Maintain good hand hygiene.
+- Reduce exposure to indoor air pollution.
+- Avoid smoking.
+- Maintain adequate nutrition.
+
+Treatment:
+Treatment depends on the cause and severity. Bacterial pneumonia may require antibiotics prescribed by a healthcare professional. Severe pneumonia may require hospitalization and additional supportive care.
+
+Important Note:
+This information is intended for educational and research purposes. It does not provide a confirmed diagnosis or individualized treatment recommendation.
+
+Reference:
+World Health Organization (WHO) - Pneumonia
+https://www.who.int/health-topics/pneumonia

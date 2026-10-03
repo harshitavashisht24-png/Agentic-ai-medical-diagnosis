@@ -1,0 +1,64 @@
+Disease: Malaria
+Medical Specialty: Infectious Diseases
+
+Source:
+World Health Organization (WHO)
+Malaria Fact Sheet
+Updated: 4 December 2025
+
+Overview:
+Malaria is a life-threatening disease caused by Plasmodium parasites. It is mainly transmitted to humans through the bites of infected female Anopheles mosquitoes. Malaria is mainly found in tropical countries and is preventable and curable.
+
+Cause:
+Malaria is caused by Plasmodium parasites. Five Plasmodium species can cause malaria in humans. Plasmodium falciparum and Plasmodium vivax pose major health risks.
+
+Transmission:
+Malaria is mainly transmitted through the bites of infected female Anopheles mosquitoes. It can also be transmitted through blood transfusion and contaminated needles.
+
+Common Symptoms:
+- Fever
+- Headache
+- Chills
+- Fatigue
+- Weakness
+
+Symptoms can initially be mild and may resemble other febrile illnesses.
+
+Severe Symptoms / Warning Signs:
+- Extreme tiredness and fatigue
+- Impaired consciousness
+- Multiple convulsions
+- Difficulty breathing
+- Dark or bloody urine
+- Jaundice
+- Abnormal bleeding
+
+People with severe symptoms should receive emergency medical care.
+
+Higher-Risk Groups:
+- Infants
+- Children under 5 years
+- Pregnant women and girls
+- Travellers
+- People with HIV or AIDS
+
+Diagnosis:
+Because malaria symptoms can be nonspecific, early testing is important. WHO recommends parasite-based diagnostic testing for suspected malaria, including microscopy or rapid diagnostic tests.
+
+Prevention:
+- Use mosquito nets.
+- Use appropriate mosquito repellents.
+- Wear protective clothing.
+- Use window screens.
+- Use mosquito-control measures where appropriate.
+- Travellers to malaria-risk areas should discuss preventive medicines with a healthcare professional.
+
+Treatment:
+Malaria requires medical treatment. The appropriate treatment depends on factors such as parasite type, drug resistance, age or weight, and pregnancy status. Early diagnosis and treatment can reduce the risk of severe disease.
+
+Important Note:
+This information is intended for educational and research purposes. It does not provide a confirmed diagnosis or individualized treatment recommendation.
+
+Reference:
+World Health Organization (WHO) - Malaria Fact Sheet
+https://www.who.int/news-room/fact-sheets/detail/malaria

@@ -1,0 +1,65 @@
+Disease: Dengue
+Medical Specialty: Infectious Diseases
+
+Source:
+World Health Organization (WHO)
+Dengue and Severe Dengue Fact Sheet
+Updated: 21 August 2025
+
+Overview:
+Dengue is a viral infection caused by the dengue virus. It is transmitted to humans mainly through the bites of infected mosquitoes. Dengue is common in tropical and subtropical regions.
+
+Cause:
+Dengue is caused by dengue virus (DENV).
+
+Transmission:
+Dengue is mainly transmitted through the bites of infected female Aedes mosquitoes, particularly Aedes aegypti.
+
+Common Symptoms:
+- High fever
+- Severe headache
+- Pain behind the eyes
+- Muscle pain
+- Joint pain
+- Nausea
+- Vomiting
+- Rash
+- Swollen glands
+
+Symptoms usually begin several days after infection and commonly last for several days.
+
+Severe Dengue / Warning Signs:
+- Severe abdominal pain
+- Persistent vomiting
+- Rapid breathing
+- Bleeding gums or nose
+- Blood in vomit or stool
+- Extreme fatigue
+- Restlessness
+- Excessive thirst
+- Pale and cold skin
+- Feeling weak
+
+Severe symptoms require immediate medical evaluation.
+
+Risk:
+People who have previously had dengue infection may have a higher risk of severe dengue during a subsequent infection.
+
+Diagnosis:
+Clinical evaluation and appropriate laboratory testing may be required to confirm dengue infection.
+
+Prevention:
+- Avoid mosquito bites.
+- Use appropriate mosquito-control measures.
+- Reduce mosquito breeding sites.
+- Use protective measures against mosquitoes, particularly in areas where dengue is common.
+
+Treatment:
+There is no specific antiviral treatment for dengue. Management focuses on appropriate supportive medical care, monitoring and early recognition of severe dengue.
+
+Important Note:
+This information is intended for educational and research purposes. It does not provide a confirmed diagnosis or individualized treatment recommendation.
+
+Reference:
+World Health Organization (WHO) - Dengue and Severe Dengue
+https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue

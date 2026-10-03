@@ -1,0 +1,46 @@
+Disease: Common Cold
+Medical Specialty: Infectious Diseases
+
+Source:
+World Health Organization clinical guidance
+
+Overview:
+The common cold is a viral infection affecting the upper respiratory tract. It is generally a self-limiting condition.
+
+Cause:
+The common cold can be caused by several viruses, including rhinoviruses.
+
+Transmission:
+The common cold can spread through respiratory droplets and close contact with infected people.
+
+Common Symptoms:
+- Runny nose
+- Blocked or stuffy nose
+- Sneezing
+- Sore or irritated throat
+- Cough
+- Mild fever
+- Mild body or muscle aches
+
+Typical Course:
+Common cold symptoms generally improve without antibiotic treatment. Persistent or worsening symptoms may require medical evaluation because other respiratory illnesses or complications may have similar symptoms.
+
+Possible Complications:
+- Sinus-related complications
+- Ear infections
+- Lower respiratory infections such as pneumonia
+
+Diagnosis:
+The common cold is generally identified from the clinical symptoms. Routine laboratory testing is usually not required for an uncomplicated cold.
+
+Management:
+Management is generally supportive and focuses on relieving symptoms, maintaining hydration and getting adequate rest.
+
+Important Note:
+Antibiotics do not treat viral infections such as the common cold. Persistent, severe or unusual symptoms should be evaluated by a healthcare professional.
+
+Important Note:
+This information is intended for educational and research purposes. It does not provide a confirmed diagnosis or individualized treatment recommendation.
+
+Reference:
+World Health Organization clinical guidance on common cold / viral rhinitis.

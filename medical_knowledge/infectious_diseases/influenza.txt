@@ -1,0 +1,55 @@
+Disease: Influenza
+Medical Specialty: Infectious Diseases
+
+Source:
+World Health Organization (WHO)
+Influenza (Seasonal) Fact Sheet
+Updated: 28 February 2025
+
+Overview:
+Seasonal influenza, commonly called the flu, is an acute respiratory infection caused by influenza viruses. It occurs worldwide and spreads easily between people.
+
+Cause:
+Influenza is caused by influenza viruses.
+
+Transmission:
+Influenza can spread when an infected person coughs or sneezes. Infectious droplets can reach people nearby. The virus can also spread through contaminated hands.
+
+Common Symptoms:
+- Sudden onset of fever
+- Cough, usually dry
+- Headache
+- Muscle and joint pain
+- Severe tiredness or malaise
+- Sore throat
+- Runny nose
+
+The cough can sometimes continue for two weeks or more.
+
+Incubation:
+Symptoms generally begin around two days after infection, with a typical range of approximately 1–4 days.
+
+Risk:
+Influenza can cause severe illness, especially in people at higher risk and people with certain underlying medical conditions.
+
+Complications:
+Severe influenza can lead to complications including pneumonia and sepsis.
+
+Diagnosis:
+Most influenza cases are diagnosed clinically. Laboratory testing may be useful in situations where influenza activity is low or when other respiratory infections produce similar symptoms.
+
+Prevention:
+- Influenza vaccination is an important prevention measure.
+- Cover the mouth and nose when coughing or sneezing.
+- Wash hands regularly.
+- Avoid close contact when experiencing symptoms.
+
+Treatment / Management:
+Most people recover without specific treatment. Supportive care may include rest and adequate fluid intake. People with severe symptoms or higher-risk conditions should seek medical care.
+
+Important Note:
+This information is intended for educational and research purposes. It does not provide a confirmed diagnosis or individualized treatment recommendation.
+
+Reference:
+World Health Organization (WHO) - Influenza (Seasonal)
+https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)
